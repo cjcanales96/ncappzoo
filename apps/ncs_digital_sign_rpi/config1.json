@@ -1,0 +1,9 @@
+{
+	"threshold": "0.70",
+	"size": "30",
+	"time": "5",
+	"imgTime": "5000",
+	"maleAdvertisement": "/home/pi/Documents/xboxAd.jpg",
+	"femaleAdvertisement": "/home/pi/Documents/adidasFemaleAd.jpg",
+	"liveFeed": "yes"
+}
